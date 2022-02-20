@@ -1,3 +1,32 @@
 body {
-    background-color: #e0f7fa;
+    background-color: #9ebcc0;
+}
+/*
+p테그 의 색상을바꾸는 코드다
+*/
+p {
+    background-color: black;
+} 
+/*
+h1 색깔 바꾸는 코드
+*/
+.one {
+    background-color: blue;
+}
+.two {
+    background-color:aqua    
+}
+/*
+li {
+ background-color: red  
+}
+*/
+.mode1 {
+background-color:   purple   
+}
+.mode2 {
+background-color:   green  
+}
+.mode3 {
+background-color:   yellow    
 }
